@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Tot tema, Configuration: Debug x64 ------
+1>Source.cpp
+1>Tot tema.vcxproj -> G:\22222222222222222222222222\oop-2022\Tot tema\x64\Debug\Tot tema.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
